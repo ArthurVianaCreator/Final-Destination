@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1764267661,
+	"version": 1764271055,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,6 +12,7 @@
 		"images/rex1-sheet1.png",
 		"images/ia_rex-sheet0.png",
 		"images/ghost-sheet0.png",
+		"images/rocke-sheet0.png",
 		"images/grama-sheet0.png",
 		"images/grama_bloco.png",
 		"images/grama_terra_bloco.png",
