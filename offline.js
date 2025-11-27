@@ -1,11 +1,12 @@
 ﻿{
-	"version": 1764271055,
+	"version": 1764281306,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
 		"images/player-sheet0.png",
+		"images/player-sheet1.png",
 		"images/camera-sheet0.png",
 		"images/heart_hud-sheet0.png",
 		"images/rex1-sheet0.png",
@@ -21,6 +22,8 @@
 		"images/fundo.png",
 		"images/fadein.png",
 		"images/light-sheet0.png",
+		"images/sangue.png",
+		"media/selva.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
