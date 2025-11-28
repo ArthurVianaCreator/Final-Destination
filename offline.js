@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1764359946,
+	"version": 1764363454,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,7 @@
 		"images/logo-sheet0.png",
 		"images/fadeout-sheet0.png",
 		"images/livro-sheet0.png",
+		"images/livro2-sheet0.png",
 		"images/mobile_a-sheet0.png",
 		"images/mobile_d-sheet0.png",
 		"images/mobile_e-sheet0.png",
@@ -30,6 +31,7 @@
 		"images/rocke-sheet0.png",
 		"images/rocke-sheet1.png",
 		"images/todofly-sheet0.png",
+		"images/todofly-sheet1.png",
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
 		"images/camera-sheet0.png",
