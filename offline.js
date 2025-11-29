@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1764370696,
+	"version": 1764378878,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,7 +18,6 @@
 		"images/fadeout-sheet0.png",
 		"images/livro-sheet0.png",
 		"images/livro2-sheet0.png",
-		"images/livro3-sheet0.png",
 		"images/mobile_a-sheet0.png",
 		"images/mobile_d-sheet0.png",
 		"images/mobile_e-sheet0.png",
@@ -39,7 +38,9 @@
 		"images/player_menu-sheet0.png",
 		"images/player_menu-sheet1.png",
 		"images/sangue.png",
+		"media/menu.ogg",
 		"media/selva.ogg",
+		"media/end.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
