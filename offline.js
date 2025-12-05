@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1764897158,
+	"version": 1764909567,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,8 @@
 		"images/ia_rex-sheet0.png",
 		"images/ia_rex-sheet1.png",
 		"images/ia_rex-sheet2.png",
+		"images/ia_flor-sheet0.png",
+		"images/ia_flor-sheet1.png",
 		"images/grama-sheet0.png",
 		"images/espinhos-sheet0.png",
 		"images/tocha-sheet0.png",
@@ -50,6 +52,10 @@
 		"images/sprite2-sheet0.png",
 		"images/ia_bot-sheet0.png",
 		"images/fadeout-sheet0.png",
+		"images/controle_a-sheet0.png",
+		"images/controle_b-sheet0.png",
+		"images/controle_y-sheet0.png",
+		"images/controle_x-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"media/retro loop.m4a",
 		"media/retro loop.ogg",
