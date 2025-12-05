@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1764888744
+#1764897158
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -50,9 +50,16 @@ images/sprite2-sheet0.png
 images/ia_bot-sheet0.png
 images/fadeout-sheet0.png
 images/sprite4-sheet0.png
-media/end.ogg
-media/menu.ogg
-media/selva.ogg
+media/retro%20loop.m4a
+media/retro%20loop.ogg
+media/rex.m4a
+media/rex.ogg
+media/ghost.m4a
+media/ghost.ogg
+media/punch%20hurt.m4a
+media/punch%20hurt.ogg
+media/footstep.m4a
+media/footstep.ogg
 icon-16.png
 icon-32.png
 icon-114.png
